@@ -18,7 +18,7 @@
   </div> -->
 
 ## 💻 DONGYUN's Used Language 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddbs4521)](https://github.com/ehddbs4521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddbs4521&layout=compact)](https://github.com/ehddbs4521/github-readme-stats)
 
 
 
