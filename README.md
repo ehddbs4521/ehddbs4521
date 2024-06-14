@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
 
 ## 📑 DONGYUN's GIT-HUB Stats 📑
-[![ehddbs452100's github stats](https://github-readme-stats.vercel.app/api?username=ehddbs4521&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehddbs4521&show_icons=true&theme=radical)
 <!--   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyk2367)](https://hits.seeyoufarm.com) 
