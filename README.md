@@ -19,11 +19,3 @@
 
 ## 💻 DONGYUN's Used Language 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehddbs4521&layout=compact)](https://github.com/ehddbs4521/github-readme-stats)
-
-
-
-## 🧐 DONGYUN's Baekjoon 🧐
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehddbs452100)](https://solved.ac/ehddbs452100)
-<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyk2367&theme=warm)-->
-  
-
