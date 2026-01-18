@@ -13,7 +13,10 @@
 | 2025.05.16 - ing~ | 모두가 함께 만드는 온라인 롤링페이퍼 🗞️ | Spring-Boot | PO | [Repo](https://github.com/team-serius/doldol-server) |
 
 ## 📑 DONGYUN's GIT-HUB Stats 📑
-[![DONGYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehddbs4521&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehddbs4521&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehddbs4521&theme=tokyonight" width="49%"/>
+</div>
 
 
 ## 📖 DONGYUN's Latest Blog 📖
