@@ -10,8 +10,9 @@
 
 | 기간 | 설명 | 언어 | 포지션 | 레포 링크 |
 |------|------|------|---------|----------|
-| 2025.05 - ing~(운영중) | 모두가 함께 만드는 온라인 롤링페이퍼 🗞️ | Spring-Boot | PO | [Repo](https://github.com/team-serius/doldol-server) |
+| 2025.05 - 2025.07 | 모두가 함께 만드는 온라인 롤링페이퍼 🗞️ | Spring-Boot | PO | [Repo](https://github.com/team-serius/doldol-server) |
 | 2025.10 - 2025.12 | 보호센터 대기 동물과 실종/목격 동물의 정보 🐾 | Spring-Boot | PO | [API - Repo](https://github.com/TetoAndEggens/SeeYouAgain-BE) , [Batch - Repo](https://github.com/TetoAndEggens/SeeYouAgain-Batch)|
+| 2026.08 - 2025.08 | 결제 시스템 구축 💰 | Spring-Boot | 1인 개발 | [Repo](https://github.com/PocketPayStore/PocketPay_Core) |
 
 ## 📑 DONGYUN's GIT-HUB Stats 📑
 <div align="center">
