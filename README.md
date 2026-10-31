@@ -22,5 +22,4 @@
 
 
 ## 📖 DONGYUN's Latest Blog 📖
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlaehddbs4521)]([벨로그링크](https://velog.io/@rlaehddbs4521/posts))
-
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rlaehddbs4521?theme=dark&posts=3)](https://velog.io/@rlaehddbs4521/posts)
